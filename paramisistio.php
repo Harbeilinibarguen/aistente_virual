@@ -1,3 +1,4 @@
+Este es una entorno de prubas en git
 <?php
 
 $thegem_blog_style = isset($thegem_blog_style) ? $thegem_blog_style : 'default';
